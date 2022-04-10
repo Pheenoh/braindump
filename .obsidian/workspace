@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "59c2c663042cbd17",
+    "type": "split",
+    "children": [
+      {
+        "id": "24be84a5a4ce8f78",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "757db78d41c2ef1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7eefde0acef7bceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a50c3c77973d02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73e36b634d17bc55",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8022582a077d369e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5890afb9c5b77c92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532c395213f1758d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8647dc97530ef448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16fc33a9ef7ae60e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "24be84a5a4ce8f78",
+  "lastOpenFiles": [
+    "Linear Systems.md",
+    "Obsidian Format Guide.md",
+    "field.md",
+    "Euclidean space.md",
+    "vector field.md",
+    "stochastic gradient descent.md",
+    "scalar field.md",
+    "gradients.md",
+    "formal language.md",
+    "operands.md"
+  ]
+}
