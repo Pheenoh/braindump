@@ -1,0 +1,3 @@
+# StatefulSet
+#k8s 
+

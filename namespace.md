@@ -1,3 +1,6 @@
+---
+aliases: [namespaces]
+---
 # Namespace
 #computer-science
 

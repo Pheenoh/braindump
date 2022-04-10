@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "99a1c60f193b6f8c",
+        "id": "3a4c27e54ee6220d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "processes.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +95,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "99a1c60f193b6f8c",
+  "active": "3a4c27e54ee6220d",
   "lastOpenFiles": [
-    "processes.md",
-    "scalars.md",
-    "scheduler.md",
-    "processor.md",
-    "information.md",
-    "memory.md",
-    "program.md",
-    "PyTorch.md",
-    "operands.md",
-    "operating system.md"
+    "interrupts.md",
+    "controller pattern.md",
+    "controller.md",
+    "Workqueue.md",
+    "SharedInformer.md",
+    "Obsidian Format Guide.md",
+    "Kubernetes.md",
+    "mvc.md",
+    "Control Plane.md",
+    "Deployment.md"
   ]
 }
