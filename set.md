@@ -4,10 +4,21 @@ aliases: [sets]
 # Set
 #math
 
-An arbitrary collection of elements.
+An arbitrary collection of [[elements]].
 
-Examples:
+## Set Types
+---
 
-- Empty set: A set with no element
-- Singleton: A set with a single element
-- Infinite set: A set with infinite amount of elements
+- [[Empty set]]
+- [[Singleton]]
+- [[Infinite set]]
+
+## Notation
+---
+
+Set membership is denoted by the symbol $\in$ . 
+
+So the statement, "$x$ is a member of $A$" would be represented as
+
+$$x \in A$$
+

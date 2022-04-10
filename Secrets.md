@@ -1,3 +1,6 @@
+---
+aliases: [Secret]
+---
 # Secret
-#k8s 
+#k8s  #rkt
 

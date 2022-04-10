@@ -88,3 +88,8 @@ tensor([36., 81.])
 tensor([-12.,  -8.])
 ```
 
+## Training Loop
+---
+
+Using backpropogation on gradient-required input tensors in a loop allows us to train the 
+

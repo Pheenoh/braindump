@@ -9,7 +9,7 @@ An axiom is a statement that is taken to be true.
 
 ### Logical axioms
 ---
-Logical axioms are formulas in a [[formal language]] that are universally valid.
+Logical axioms are [[formulas]] in a [[formal language]] that are universally valid.
 
 **Axiom of Equality**
 

@@ -5,13 +5,34 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#k8s",
       "color": {
         "a": 1,
         "rgb": 4607
+      }
+    },
+    {
+      "query": "tag:#computer-science",
+      "color": {
+        "a": 1,
+        "rgb": 16711718
+      }
+    },
+    {
+      "query": "tag:#math",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#cloud",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     }
   ],
@@ -25,6 +46,6 @@
   "repelStrength": 11.1111111111111,
   "linkStrength": 0.94017094017094,
   "linkDistance": 428,
-  "scale": 0.1394729434597798,
-  "close": false
+  "scale": 0.1668259496898374,
+  "close": true
 }

@@ -1,0 +1,206 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Virtual Service",
+      "path": "Virtual Service.md"
+    },
+    {
+      "basename": "fundamental",
+      "path": "fundamental.md"
+    },
+    {
+      "basename": "CSINode",
+      "path": "CSINode.md"
+    },
+    {
+      "basename": "Control Plane",
+      "path": "Control Plane.md"
+    },
+    {
+      "basename": "Kubernetes",
+      "path": "Kubernetes.md"
+    },
+    {
+      "basename": "ValidatingWebhookConfiguration",
+      "path": "ValidatingWebhookConfiguration.md"
+    },
+    {
+      "basename": "MutatingWebhookConfiguration",
+      "path": "MutatingWebhookConfiguration.md"
+    },
+    {
+      "basename": "CustomResourceDefinition",
+      "path": "CustomResourceDefinition.md"
+    },
+    {
+      "basename": "ComponentStatus",
+      "path": "ComponentStatus.md"
+    },
+    {
+      "basename": "Binding",
+      "path": "Binding.md"
+    },
+    {
+      "basename": "PriorityLevelConfiguration",
+      "path": "PriorityLevelConfiguration.md"
+    },
+    {
+      "basename": "FlowSchema",
+      "path": "FlowSchema.md"
+    },
+    {
+      "basename": "RuntimeClass",
+      "path": "RuntimeClass.md"
+    },
+    {
+      "basename": "Lease",
+      "path": "Lease.md"
+    },
+    {
+      "basename": "APIService",
+      "path": "APIService.md"
+    },
+    {
+      "basename": "Event",
+      "path": "Event.md"
+    },
+    {
+      "basename": "PofSecurityPolicy",
+      "path": "PofSecurityPolicy.md"
+    },
+    {
+      "basename": "PodDisruptionBudget",
+      "path": "PodDisruptionBudget.md"
+    },
+    {
+      "basename": "NetworkPolicy",
+      "path": "NetworkPolicy.md"
+    },
+    {
+      "basename": "ResourceQuota",
+      "path": "ResourceQuota.md"
+    },
+    {
+      "basename": "LimitRange",
+      "path": "LimitRange.md"
+    },
+    {
+      "basename": "RoleBinding",
+      "path": "RoleBinding.md"
+    },
+    {
+      "basename": "Role",
+      "path": "Role.md"
+    },
+    {
+      "basename": "ClusterRoleBinding",
+      "path": "ClusterRoleBinding.md"
+    },
+    {
+      "basename": "ClusterRole",
+      "path": "ClusterRole.md"
+    },
+    {
+      "basename": "SelfSubjectRulesReview",
+      "path": "SelfSubjectRulesReview.md"
+    },
+    {
+      "basename": "SubjectAccessReview",
+      "path": "SubjectAccessReview.md"
+    },
+    {
+      "basename": "SelfSubjectAccessReview",
+      "path": "SelfSubjectAccessReview.md"
+    },
+    {
+      "basename": "CertificateSigningRequest",
+      "path": "CertificateSigningRequest.md"
+    },
+    {
+      "basename": "LocalSubjectaccessReview",
+      "path": "LocalSubjectaccessReview.md"
+    },
+    {
+      "basename": "Sidecar",
+      "path": "Sidecar.md"
+    },
+    {
+      "basename": "Pods",
+      "path": "Pods.md"
+    },
+    {
+      "basename": "TokenReview",
+      "path": "TokenReview.md"
+    },
+    {
+      "basename": "TokenRequest",
+      "path": "TokenRequest.md"
+    },
+    {
+      "basename": "ServiceAccount",
+      "path": "ServiceAccount.md"
+    },
+    {
+      "basename": "CSIDriver",
+      "path": "CSIDriver.md"
+    },
+    {
+      "basename": "CSIStorageCapacity",
+      "path": "CSIStorageCapacity.md"
+    },
+    {
+      "basename": "PersistentVolumeClaim",
+      "path": "PersistentVolumeClaim.md"
+    },
+    {
+      "basename": "PersistentVolume",
+      "path": "PersistentVolume.md"
+    },
+    {
+      "basename": "StorageClass",
+      "path": "StorageClass.md"
+    },
+    {
+      "basename": "VolumeAttachment",
+      "path": "VolumeAttachment.md"
+    },
+    {
+      "basename": "EndpointSlice",
+      "path": "EndpointSlice.md"
+    },
+    {
+      "basename": "Ingress",
+      "path": "Ingress.md"
+    },
+    {
+      "basename": "IngressClass",
+      "path": "IngressClass.md"
+    },
+    {
+      "basename": "PriorityClass",
+      "path": "PriorityClass.md"
+    },
+    {
+      "basename": "Endpoint",
+      "path": "Endpoint.md"
+    },
+    {
+      "basename": "Job",
+      "path": "Job.md"
+    },
+    {
+      "basename": "CronJob",
+      "path": "CronJob.md"
+    },
+    {
+      "basename": "HorizontalPodAutoscaler",
+      "path": "HorizontalPodAutoscaler.md"
+    },
+    {
+      "basename": "PodTemplate",
+      "path": "PodTemplate.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null
+}

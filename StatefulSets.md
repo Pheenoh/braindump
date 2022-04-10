@@ -1,3 +1,6 @@
+---
+aliases: [StatefulSet]
+---
 # StatefulSet
-#k8s 
+#k8s  #rkt
 

@@ -1,3 +1,6 @@
+---
+aliases: [DaemonSet]
+---
 # DaemonSet
-#k8s
+#k8s #rkt
 

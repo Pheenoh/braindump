@@ -1,3 +1,6 @@
+---
+aliases: [pod,pods]
+---
 # Pod
-#k8s 
+#k8s  #rkt
 

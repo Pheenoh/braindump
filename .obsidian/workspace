@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3a4c27e54ee6220d",
+        "id": "dd8ff8d059468f4d",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Virtual Service.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -18,6 +22,20 @@
     "id": "757db78d41c2ef1d",
     "type": "split",
     "children": [
+      {
+        "id": "03b0e5ac238a5d63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "197836c4d5e4de13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      },
       {
         "id": "7eefde0acef7bceb",
         "type": "tabs",
@@ -36,13 +54,27 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#k8s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "b0f12f2f83b6d81f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d292695f327c07d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ]
@@ -65,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Virtual Service.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +128,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "3a4c27e54ee6220d",
+  "active": "dd8ff8d059468f4d",
   "lastOpenFiles": [
-    "interrupts.md",
-    "controller pattern.md",
-    "controller.md",
-    "Workqueue.md",
-    "SharedInformer.md",
-    "Obsidian Format Guide.md",
-    "Kubernetes.md",
-    "mvc.md",
+    "Virtual Service.md",
+    "fundamental.md",
+    "CSINode.md",
     "Control Plane.md",
-    "Deployment.md"
+    "Kubernetes.md",
+    "ValidatingWebhookConfiguration.md",
+    "MutatingWebhookConfiguration.md",
+    "CustomResourceDefinition.md",
+    "ComponentStatus.md",
+    "Binding.md"
   ]
 }

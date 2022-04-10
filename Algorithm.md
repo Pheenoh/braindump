@@ -1,0 +1,42 @@
+# Algorithm
+#computer-science #algorithm
+
+## Sorting Algorithms
+---
+- [[Bubble Sort]]
+- [[Selection Sort]]
+- [[Insertion Sort]]
+- [[Merge Sort]]
+- [[Quick Sort]]
+- [[Counting Sort]]
+- [[Radix Sort]]
+- [[Bucket Sort]]
+- [[Heap Sort]]
+- [[Shell Sort]]
+
+## Searching Algorithms
+---
+- [[Linear Search]]
+- [[Binary Search]]
+- [[Breadth-first Search]]
+- [[Depth-first Search]]
+
+## Array Algorithms
+---
+- [[Kadane's algorithm]]
+- [[Floyd cycle detection algorithm]]
+- [[KMP Alogirthm]]
+- [[Quick select algoirthm]]
+
+## Graph Algorithms
+---
+- [[Kruskal's algorithm]]
+- [[Prim's algorithm]]
+- [[Dijkstra's algorithm]]
+- [[Bellman ford algorithm]]
+- [[Topological sort algorithm]]
+
+## Dynamic Programming
+- [[Fibonacci series]]
+- [[Longest common subsequence]]
+- [[Matrix chain multiplication]]

@@ -1,3 +1,6 @@
+---
+aliases: [ConfigMap]
+---
 # ConfigMap
-#k8s 
+#k8s  #rkt
 

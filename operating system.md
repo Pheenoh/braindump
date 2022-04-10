@@ -1,5 +1,5 @@
 # Operating System
-#computer-science 
+#computer-engineering #technology #computer-science
 
 An operating system (OS) is system software that manages computer hardware, software resources, and provides common services for computer programs.
 
