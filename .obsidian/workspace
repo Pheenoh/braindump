@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2851abc6128294fb",
+        "id": "99a1c60f193b6f8c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "processes.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "processes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +100,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "2851abc6128294fb",
+  "active": "99a1c60f193b6f8c",
   "lastOpenFiles": [
-    "README.md",
-    "link.md",
-    "gradients.md",
+    "processes.md",
+    "scalars.md",
+    "scheduler.md",
+    "processor.md",
+    "information.md",
+    "memory.md",
+    "program.md",
+    "PyTorch.md",
     "operands.md",
-    "Linear Systems.md",
-    "Obsidian Format Guide.md",
-    "field.md",
-    "Euclidean space.md",
-    "vector field.md",
-    "stochastic gradient descent.md"
+    "operating system.md"
   ]
 }
