@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Virtual Service.md",
+            "file": "Savestates/2022-04-11.md",
             "mode": "source",
             "source": false
           }
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#k8s",
+                "query": "tag:#algebra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b0f12f2f83b6d81f",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Virtual Service.md",
+                "file": "Savestates/2022-04-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +131,15 @@
   },
   "active": "dd8ff8d059468f4d",
   "lastOpenFiles": [
-    "Virtual Service.md",
-    "fundamental.md",
-    "CSINode.md",
-    "Control Plane.md",
+    "Savestates/2022-04-11.md",
+    "Bubble Sort.md",
+    "Algorithm.md",
     "Kubernetes.md",
-    "ValidatingWebhookConfiguration.md",
-    "MutatingWebhookConfiguration.md",
-    "CustomResourceDefinition.md",
-    "ComponentStatus.md",
-    "Binding.md"
+    "Units.md",
+    "Addition.md",
+    "Associative Property.md",
+    "operator.md",
+    "operands.md",
+    "Multiplication.md"
   ]
 }
