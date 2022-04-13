@@ -1,7 +1,7 @@
 # Heap Sort
 #computer-science #algorithm 
 
-Sorting algorithm....
+Heap sort is a comparison-based sorting technique based on [[binary heap]] [[data structures]].
 
 ## Code Example
 ```python

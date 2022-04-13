@@ -1,7 +1,7 @@
 # Kubernetes
 #k8s #technology  #rkt
 
-A open-source container orechstration system for automating software deployment, scaling and management.
+An open-source [[container]] orechstration system for automating software deployment, scaling and management.
 
 ## Cluster Architecture
 - [[Control Plane]]

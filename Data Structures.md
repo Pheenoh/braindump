@@ -1,4 +1,7 @@
-# Data Structures
+---
+aliases: [data structure]
+---
+# Data Structure
 #computer-science #data-structure
 
 - [[Stack]]

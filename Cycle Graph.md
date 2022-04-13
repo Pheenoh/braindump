@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Cycle Graph
+#math
+

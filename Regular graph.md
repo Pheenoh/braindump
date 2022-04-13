@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Regular graph
+#math
+

@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Planar Graph
+#math
+

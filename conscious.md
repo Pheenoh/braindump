@@ -1,0 +1,4 @@
+---
+aliases: [consciousness]
+---
+# Consciousness

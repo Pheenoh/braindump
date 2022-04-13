@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Path Graph
+#math
+

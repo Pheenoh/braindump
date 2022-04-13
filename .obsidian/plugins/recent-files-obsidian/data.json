@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "2022-04-11",
-      "path": "Savestates/2022-04-11.md"
+      "basename": "Heap",
+      "path": "Heap.md"
     },
     {
-      "basename": "Bubble Sort",
-      "path": "Bubble Sort.md"
+      "basename": "binary heap",
+      "path": "binary heap.md"
     },
     {
-      "basename": "Algorithm",
-      "path": "Algorithm.md"
+      "basename": "Binary Tree",
+      "path": "Binary Tree.md"
+    },
+    {
+      "basename": "Heap Sort",
+      "path": "Heap Sort.md"
+    },
+    {
+      "basename": "Computer Science Template",
+      "path": "Templates/Computer Science Template.md"
+    },
+    {
+      "basename": "Data Structures",
+      "path": "Data Structures.md"
+    },
+    {
+      "basename": "Graph Node",
+      "path": "Graph Node.md"
+    },
+    {
+      "basename": "Configuraiton Status Field",
+      "path": "Configuraiton Status Field.md"
+    },
+    {
+      "basename": "Istio",
+      "path": "Istio.md"
+    },
+    {
+      "basename": "Math Template",
+      "path": "Templates/Math Template.md"
+    },
+    {
+      "basename": "graphs",
+      "path": "graphs.md"
+    },
+    {
+      "basename": "Polytree",
+      "path": "Polytree.md"
+    },
+    {
+      "basename": "Tree",
+      "path": "Tree.md"
+    },
+    {
+      "basename": "Cycle Graph",
+      "path": "Cycle Graph.md"
+    },
+    {
+      "basename": "Planar Graph",
+      "path": "Planar Graph.md"
+    },
+    {
+      "basename": "Path Graph",
+      "path": "Path Graph.md"
+    },
+    {
+      "basename": "Bipartite Graph",
+      "path": "Bipartite Graph.md"
+    },
+    {
+      "basename": "Connected Graph",
+      "path": "Connected Graph.md"
+    },
+    {
+      "basename": "Finite Graph",
+      "path": "Finite Graph.md"
+    },
+    {
+      "basename": "Complete graph",
+      "path": "Complete graph.md"
+    },
+    {
+      "basename": "Regular graph",
+      "path": "Regular graph.md"
+    },
+    {
+      "basename": "Kubernetes Template",
+      "path": "Templates/Kubernetes Template.md"
+    },
+    {
+      "basename": "Istio Template",
+      "path": "Templates/Istio Template.md"
+    },
+    {
+      "basename": "Oriented graph",
+      "path": "Oriented graph.md"
+    },
+    {
+      "basename": "Global Mesh Options",
+      "path": "Global Mesh Options.md"
+    },
+    {
+      "basename": "Analysis Messages",
+      "path": "Analysis Messages.md"
+    },
+    {
+      "basename": "Traffic Management",
+      "path": "Traffic Management.md"
+    },
+    {
+      "basename": "Ingress",
+      "path": "Ingress.md"
+    },
+    {
+      "basename": "Observability",
+      "path": "Observability.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
+    },
+    {
+      "basename": "vertices",
+      "path": "vertices.md"
     },
     {
       "basename": "Kubernetes",
       "path": "Kubernetes.md"
     },
     {
-      "basename": "Units",
-      "path": "Units.md"
+      "basename": "Services",
+      "path": "Services.md"
     },
     {
-      "basename": "Addition",
-      "path": "Addition.md"
+      "basename": "Deployment",
+      "path": "Deployment.md"
     },
     {
-      "basename": "Associative Property",
-      "path": "Associative Property.md"
-    },
-    {
-      "basename": "operator",
-      "path": "operator.md"
-    },
-    {
-      "basename": "operands",
-      "path": "operands.md"
-    },
-    {
-      "basename": "Multiplication",
-      "path": "Multiplication.md"
-    },
-    {
-      "basename": "arithmetic operations",
-      "path": "arithmetic operations.md"
-    },
-    {
-      "basename": "Algebra",
-      "path": "Algebra.md"
-    },
-    {
-      "basename": "Virtual Service",
-      "path": "Virtual Service.md"
-    },
-    {
-      "basename": "fundamental",
-      "path": "fundamental.md"
-    },
-    {
-      "basename": "CSINode",
-      "path": "CSINode.md"
-    },
-    {
-      "basename": "Control Plane",
-      "path": "Control Plane.md"
-    },
-    {
-      "basename": "ValidatingWebhookConfiguration",
-      "path": "ValidatingWebhookConfiguration.md"
-    },
-    {
-      "basename": "MutatingWebhookConfiguration",
-      "path": "MutatingWebhookConfiguration.md"
-    },
-    {
-      "basename": "CustomResourceDefinition",
-      "path": "CustomResourceDefinition.md"
-    },
-    {
-      "basename": "ComponentStatus",
-      "path": "ComponentStatus.md"
-    },
-    {
-      "basename": "Binding",
-      "path": "Binding.md"
-    },
-    {
-      "basename": "PriorityLevelConfiguration",
-      "path": "PriorityLevelConfiguration.md"
-    },
-    {
-      "basename": "FlowSchema",
-      "path": "FlowSchema.md"
-    },
-    {
-      "basename": "RuntimeClass",
-      "path": "RuntimeClass.md"
-    },
-    {
-      "basename": "Lease",
-      "path": "Lease.md"
+      "basename": "Kubernetes Namespace",
+      "path": "Kubernetes Namespace.md"
     },
     {
       "basename": "APIService",
       "path": "APIService.md"
     },
     {
-      "basename": "Event",
-      "path": "Event.md"
+      "basename": "Linked List",
+      "path": "Linked List.md"
     },
     {
-      "basename": "PofSecurityPolicy",
-      "path": "PofSecurityPolicy.md"
+      "basename": "brains",
+      "path": "brains.md"
     },
     {
-      "basename": "PodDisruptionBudget",
-      "path": "PodDisruptionBudget.md"
+      "basename": "Frontal Lobe",
+      "path": "Frontal Lobe.md"
     },
     {
-      "basename": "NetworkPolicy",
-      "path": "NetworkPolicy.md"
+      "basename": "thought",
+      "path": "thought.md"
     },
     {
-      "basename": "ResourceQuota",
-      "path": "ResourceQuota.md"
+      "basename": "ideas",
+      "path": "ideas.md"
     },
     {
-      "basename": "LimitRange",
-      "path": "LimitRange.md"
+      "basename": "concept",
+      "path": "concept.md"
     },
     {
-      "basename": "RoleBinding",
-      "path": "RoleBinding.md"
+      "basename": "Dijkstra's algorithm",
+      "path": "Dijkstra's algorithm.md"
     },
     {
-      "basename": "Role",
-      "path": "Role.md"
+      "basename": "Algorithm",
+      "path": "Algorithm.md"
     },
     {
-      "basename": "ClusterRoleBinding",
-      "path": "ClusterRoleBinding.md"
+      "basename": "node",
+      "path": "node.md"
     },
     {
-      "basename": "ClusterRole",
-      "path": "ClusterRole.md"
+      "basename": "Bucket Sort",
+      "path": "Bucket Sort.md"
     },
     {
-      "basename": "SelfSubjectRulesReview",
-      "path": "SelfSubjectRulesReview.md"
+      "basename": "set",
+      "path": "set.md"
     },
     {
-      "basename": "SubjectAccessReview",
-      "path": "SubjectAccessReview.md"
+      "basename": "codomain",
+      "path": "codomain.md"
     },
     {
-      "basename": "SelfSubjectAccessReview",
-      "path": "SelfSubjectAccessReview.md"
+      "basename": "Infinite set",
+      "path": "Infinite set.md"
     },
     {
-      "basename": "CertificateSigningRequest",
-      "path": "CertificateSigningRequest.md"
-    },
-    {
-      "basename": "LocalSubjectaccessReview",
-      "path": "LocalSubjectaccessReview.md"
-    },
-    {
-      "basename": "Sidecar",
-      "path": "Sidecar.md"
-    },
-    {
-      "basename": "Pods",
-      "path": "Pods.md"
-    },
-    {
-      "basename": "TokenReview",
-      "path": "TokenReview.md"
-    },
-    {
-      "basename": "TokenRequest",
-      "path": "TokenRequest.md"
-    },
-    {
-      "basename": "ServiceAccount",
-      "path": "ServiceAccount.md"
-    },
-    {
-      "basename": "CSIDriver",
-      "path": "CSIDriver.md"
-    },
-    {
-      "basename": "CSIStorageCapacity",
-      "path": "CSIStorageCapacity.md"
-    },
-    {
-      "basename": "PersistentVolumeClaim",
-      "path": "PersistentVolumeClaim.md"
-    },
-    {
-      "basename": "PersistentVolume",
-      "path": "PersistentVolume.md"
+      "basename": "Empty set",
+      "path": "Empty set.md"
     }
   ],
   "omittedPaths": [],

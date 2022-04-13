@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Connected Graph
+#math
+

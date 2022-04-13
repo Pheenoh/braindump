@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Complete graph
+#math
+

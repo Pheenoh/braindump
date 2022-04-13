@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Finite Graph
+#math
+

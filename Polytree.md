@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Polytree
+#math
+
