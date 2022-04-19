@@ -1,4 +1,4 @@
 # Formula
 #math #logic
 
-A [[set]] of instruction for creating a desired result.
+A [[set]] of instructions for creating a desired result.

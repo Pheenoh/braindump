@@ -21,6 +21,8 @@ When planning a route, it is actually not necessary to wait until the destinatio
 
 ```python
 class Graph:
+	vertices: int
+	graph: 
     def __init__(self, vertices: int):
         self.vertices   = vertices
         self.graph      = [[0 for column in range(vertices)] for row in range(vertices)]

@@ -1,20 +1,176 @@
 {
   "recentFiles": [
     {
-      "basename": "Heap",
-      "path": "Heap.md"
+      "basename": "Flyway",
+      "path": "Flyway.md"
     },
     {
-      "basename": "binary heap",
-      "path": "binary heap.md"
+      "basename": "SQL",
+      "path": "SQL.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Python.md"
+    },
+    {
+      "basename": "PyTorch",
+      "path": "PyTorch.md"
+    },
+    {
+      "basename": "React",
+      "path": "React.md"
+    },
+    {
+      "basename": "user interface",
+      "path": "user interface.md"
+    },
+    {
+      "basename": "Javascript",
+      "path": "Javascript.md"
+    },
+    {
+      "basename": "universe",
+      "path": "universe.md"
+    },
+    {
+      "basename": "Typescript",
+      "path": "Typescript.md"
+    },
+    {
+      "basename": "Electron",
+      "path": "Electron.md"
+    },
+    {
+      "basename": "programming language",
+      "path": "programming language.md"
+    },
+    {
+      "basename": "C",
+      "path": "C.md"
+    },
+    {
+      "basename": "C++",
+      "path": "C++.md"
+    },
+    {
+      "basename": "Golang",
+      "path": "Golang.md"
+    },
+    {
+      "basename": "npm",
+      "path": "npm.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "CSS.md"
+    },
+    {
+      "basename": "style sheet language",
+      "path": "style sheet language.md"
+    },
+    {
+      "basename": "markup language",
+      "path": "markup language.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "HTML.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Algorithm.md"
+    },
+    {
+      "basename": "axiomatic",
+      "path": "axiomatic.md"
+    },
+    {
+      "basename": "Amazon Web Services",
+      "path": "Amazon Web Services.md"
+    },
+    {
+      "basename": "cloud",
+      "path": "cloud.md"
+    },
+    {
+      "basename": "dynamically-typed",
+      "path": "dynamically-typed.md"
+    },
+    {
+      "basename": "Dijkstra's algorithm",
+      "path": "Dijkstra's algorithm.md"
+    },
+    {
+      "basename": "Heap Sort",
+      "path": "Heap Sort.md"
+    },
+    {
+      "basename": "Software-as-a-service",
+      "path": "Software-as-a-service.md"
+    },
+    {
+      "basename": "Function-as-a-service",
+      "path": "Function-as-a-service.md"
+    },
+    {
+      "basename": "set",
+      "path": "set.md"
+    },
+    {
+      "basename": "formulas",
+      "path": "formulas.md"
+    },
+    {
+      "basename": "field",
+      "path": "field.md"
+    },
+    {
+      "basename": "controller pattern",
+      "path": "controller pattern.md"
+    },
+    {
+      "basename": "controller",
+      "path": "controller.md"
+    },
+    {
+      "basename": "SharedInformer",
+      "path": "SharedInformer.md"
+    },
+    {
+      "basename": "resources",
+      "path": "resources.md"
+    },
+    {
+      "basename": "Home",
+      "path": "Home.md"
     },
     {
       "basename": "Binary Tree",
       "path": "Binary Tree.md"
     },
     {
-      "basename": "Heap Sort",
-      "path": "Heap Sort.md"
+      "basename": "node",
+      "path": "node.md"
+    },
+    {
+      "basename": "Secrets",
+      "path": "Secrets.md"
+    },
+    {
+      "basename": "brains",
+      "path": "brains.md"
+    },
+    {
+      "basename": "Bubble Sort",
+      "path": "Bubble Sort.md"
+    },
+    {
+      "basename": "Heap",
+      "path": "Heap.md"
+    },
+    {
+      "basename": "binary heap",
+      "path": "binary heap.md"
     },
     {
       "basename": "Computer Science Template",
@@ -43,162 +199,6 @@
     {
       "basename": "graphs",
       "path": "graphs.md"
-    },
-    {
-      "basename": "Polytree",
-      "path": "Polytree.md"
-    },
-    {
-      "basename": "Tree",
-      "path": "Tree.md"
-    },
-    {
-      "basename": "Cycle Graph",
-      "path": "Cycle Graph.md"
-    },
-    {
-      "basename": "Planar Graph",
-      "path": "Planar Graph.md"
-    },
-    {
-      "basename": "Path Graph",
-      "path": "Path Graph.md"
-    },
-    {
-      "basename": "Bipartite Graph",
-      "path": "Bipartite Graph.md"
-    },
-    {
-      "basename": "Connected Graph",
-      "path": "Connected Graph.md"
-    },
-    {
-      "basename": "Finite Graph",
-      "path": "Finite Graph.md"
-    },
-    {
-      "basename": "Complete graph",
-      "path": "Complete graph.md"
-    },
-    {
-      "basename": "Regular graph",
-      "path": "Regular graph.md"
-    },
-    {
-      "basename": "Kubernetes Template",
-      "path": "Templates/Kubernetes Template.md"
-    },
-    {
-      "basename": "Istio Template",
-      "path": "Templates/Istio Template.md"
-    },
-    {
-      "basename": "Oriented graph",
-      "path": "Oriented graph.md"
-    },
-    {
-      "basename": "Global Mesh Options",
-      "path": "Global Mesh Options.md"
-    },
-    {
-      "basename": "Analysis Messages",
-      "path": "Analysis Messages.md"
-    },
-    {
-      "basename": "Traffic Management",
-      "path": "Traffic Management.md"
-    },
-    {
-      "basename": "Ingress",
-      "path": "Ingress.md"
-    },
-    {
-      "basename": "Observability",
-      "path": "Observability.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "vertices",
-      "path": "vertices.md"
-    },
-    {
-      "basename": "Kubernetes",
-      "path": "Kubernetes.md"
-    },
-    {
-      "basename": "Services",
-      "path": "Services.md"
-    },
-    {
-      "basename": "Deployment",
-      "path": "Deployment.md"
-    },
-    {
-      "basename": "Kubernetes Namespace",
-      "path": "Kubernetes Namespace.md"
-    },
-    {
-      "basename": "APIService",
-      "path": "APIService.md"
-    },
-    {
-      "basename": "Linked List",
-      "path": "Linked List.md"
-    },
-    {
-      "basename": "brains",
-      "path": "brains.md"
-    },
-    {
-      "basename": "Frontal Lobe",
-      "path": "Frontal Lobe.md"
-    },
-    {
-      "basename": "thought",
-      "path": "thought.md"
-    },
-    {
-      "basename": "ideas",
-      "path": "ideas.md"
-    },
-    {
-      "basename": "concept",
-      "path": "concept.md"
-    },
-    {
-      "basename": "Dijkstra's algorithm",
-      "path": "Dijkstra's algorithm.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Algorithm.md"
-    },
-    {
-      "basename": "node",
-      "path": "node.md"
-    },
-    {
-      "basename": "Bucket Sort",
-      "path": "Bucket Sort.md"
-    },
-    {
-      "basename": "set",
-      "path": "set.md"
-    },
-    {
-      "basename": "codomain",
-      "path": "codomain.md"
-    },
-    {
-      "basename": "Infinite set",
-      "path": "Infinite set.md"
-    },
-    {
-      "basename": "Empty set",
-      "path": "Empty set.md"
     }
   ],
   "omittedPaths": [],
