@@ -60,7 +60,7 @@ tensor([2., 3.], requires_grad=True)
 tensor([4., 5.], grad_fn=<AddBackward0>)
 ```
 
-Running that gradient function will then generate and attach the gradient vector to the input tensors (via backpropogation).
+Running that gradient function will then generate and attach the gradient [[vectors|vector]] to the input tensors (via backpropogation).
 
 ```python
 import torch

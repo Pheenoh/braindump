@@ -1,7 +1,7 @@
 # Bucket Sort
 #computer-science #algorithm 
 
-Sorting algorithm....
+Bucket sort is an [[algorithm]] used for sorting numbers uniformly distributed over a range.
 
 ## Code Example
 ```python

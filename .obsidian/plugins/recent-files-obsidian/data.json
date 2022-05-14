@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Flyway",
-      "path": "Flyway.md"
-    },
-    {
-      "basename": "SQL",
-      "path": "SQL.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Python.md"
-    },
-    {
-      "basename": "PyTorch",
-      "path": "PyTorch.md"
-    },
-    {
-      "basename": "React",
-      "path": "React.md"
-    },
-    {
-      "basename": "user interface",
-      "path": "user interface.md"
-    },
-    {
-      "basename": "Javascript",
-      "path": "Javascript.md"
-    },
-    {
-      "basename": "universe",
-      "path": "universe.md"
-    },
-    {
-      "basename": "Typescript",
-      "path": "Typescript.md"
-    },
-    {
-      "basename": "Electron",
-      "path": "Electron.md"
-    },
-    {
-      "basename": "programming language",
-      "path": "programming language.md"
-    },
-    {
-      "basename": "C",
-      "path": "C.md"
-    },
-    {
-      "basename": "C++",
-      "path": "C++.md"
-    },
-    {
-      "basename": "Golang",
-      "path": "Golang.md"
-    },
-    {
-      "basename": "npm",
-      "path": "npm.md"
-    },
-    {
-      "basename": "CSS",
-      "path": "CSS.md"
-    },
-    {
-      "basename": "style sheet language",
-      "path": "style sheet language.md"
-    },
-    {
-      "basename": "markup language",
-      "path": "markup language.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "HTML.md"
+      "basename": "Linear Search",
+      "path": "Linear Search.md"
     },
     {
       "basename": "Algorithm",
       "path": "Algorithm.md"
     },
     {
-      "basename": "axiomatic",
-      "path": "axiomatic.md"
+      "basename": "Quick Sort",
+      "path": "Quick Sort.md"
     },
     {
-      "basename": "Amazon Web Services",
-      "path": "Amazon Web Services.md"
+      "basename": "Counting Sort",
+      "path": "Counting Sort.md"
     },
     {
-      "basename": "cloud",
-      "path": "cloud.md"
-    },
-    {
-      "basename": "dynamically-typed",
-      "path": "dynamically-typed.md"
-    },
-    {
-      "basename": "Dijkstra's algorithm",
-      "path": "Dijkstra's algorithm.md"
+      "basename": "Shell Sort",
+      "path": "Shell Sort.md"
     },
     {
       "basename": "Heap Sort",
       "path": "Heap Sort.md"
     },
     {
-      "basename": "Software-as-a-service",
-      "path": "Software-as-a-service.md"
+      "basename": "Bucket Sort",
+      "path": "Bucket Sort.md"
     },
     {
-      "basename": "Function-as-a-service",
-      "path": "Function-as-a-service.md"
+      "basename": "range",
+      "path": "range.md"
     },
     {
-      "basename": "set",
-      "path": "set.md"
+      "basename": "Radix Sort",
+      "path": "Radix Sort.md"
     },
     {
-      "basename": "formulas",
-      "path": "formulas.md"
+      "basename": "radix",
+      "path": "radix.md"
     },
     {
-      "basename": "field",
-      "path": "field.md"
+      "basename": "Merge Sort",
+      "path": "Merge Sort.md"
     },
     {
-      "basename": "controller pattern",
-      "path": "controller pattern.md"
+      "basename": "Insertion Sort",
+      "path": "Insertion Sort.md"
     },
     {
-      "basename": "controller",
-      "path": "controller.md"
-    },
-    {
-      "basename": "SharedInformer",
-      "path": "SharedInformer.md"
-    },
-    {
-      "basename": "resources",
-      "path": "resources.md"
-    },
-    {
-      "basename": "Home",
-      "path": "Home.md"
-    },
-    {
-      "basename": "Binary Tree",
-      "path": "Binary Tree.md"
-    },
-    {
-      "basename": "node",
-      "path": "node.md"
-    },
-    {
-      "basename": "Secrets",
-      "path": "Secrets.md"
-    },
-    {
-      "basename": "brains",
-      "path": "brains.md"
+      "basename": "Selection Sort",
+      "path": "Selection Sort.md"
     },
     {
       "basename": "Bubble Sort",
       "path": "Bubble Sort.md"
     },
     {
-      "basename": "Heap",
-      "path": "Heap.md"
+      "basename": "node",
+      "path": "node.md"
     },
     {
-      "basename": "binary heap",
-      "path": "binary heap.md"
+      "basename": "schedule",
+      "path": "schedule.md"
     },
     {
-      "basename": "Computer Science Template",
-      "path": "Templates/Computer Science Template.md"
+      "basename": "time",
+      "path": "time.md"
     },
     {
-      "basename": "Data Structures",
-      "path": "Data Structures.md"
+      "basename": "Derivative (general)",
+      "path": "Derivative (general).md"
     },
     {
-      "basename": "Graph Node",
-      "path": "Graph Node.md"
+      "basename": "domain",
+      "path": "domain.md"
     },
     {
-      "basename": "Configuraiton Status Field",
-      "path": "Configuraiton Status Field.md"
+      "basename": "fundamental",
+      "path": "fundamental.md"
     },
     {
-      "basename": "Istio",
-      "path": "Istio.md"
+      "basename": "ReplicationController",
+      "path": "ReplicationController.md"
     },
     {
-      "basename": "Math Template",
-      "path": "Templates/Math Template.md"
+      "basename": "ReplicaSets",
+      "path": "ReplicaSets.md"
     },
     {
-      "basename": "graphs",
-      "path": "graphs.md"
+      "basename": "Empty set",
+      "path": "Empty set.md"
+    },
+    {
+      "basename": "set",
+      "path": "set.md"
+    },
+    {
+      "basename": "elements",
+      "path": "elements.md"
+    },
+    {
+      "basename": "Singleton",
+      "path": "Singleton.md"
+    },
+    {
+      "basename": "function",
+      "path": "function.md"
+    },
+    {
+      "basename": "codomain",
+      "path": "codomain.md"
+    },
+    {
+      "basename": "smoothness",
+      "path": "smoothness.md"
+    },
+    {
+      "basename": "derivatives",
+      "path": "derivatives.md"
+    },
+    {
+      "basename": "continuos",
+      "path": "continuos.md"
+    },
+    {
+      "basename": "Secrets",
+      "path": "Secrets.md"
+    },
+    {
+      "basename": "Sidecar",
+      "path": "Sidecar.md"
+    },
+    {
+      "basename": "Stack",
+      "path": "Stack.md"
+    },
+    {
+      "basename": "SubjectAccessReview",
+      "path": "SubjectAccessReview.md"
+    },
+    {
+      "basename": "thought",
+      "path": "thought.md"
+    },
+    {
+      "basename": "thrust",
+      "path": "thrust.md"
+    },
+    {
+      "basename": "velocity",
+      "path": "velocity.md"
+    },
+    {
+      "basename": "virtual file system",
+      "path": "virtual file system.md"
+    },
+    {
+      "basename": "virtual memory",
+      "path": "virtual memory.md"
+    },
+    {
+      "basename": "Virtual Service",
+      "path": "Virtual Service.md"
+    },
+    {
+      "basename": "voltage",
+      "path": "voltage.md"
+    },
+    {
+      "basename": "VolumeAttachment",
+      "path": "VolumeAttachment.md"
+    },
+    {
+      "basename": "Volumes",
+      "path": "Volumes.md"
+    },
+    {
+      "basename": "Workqueue",
+      "path": "Workqueue.md"
+    },
+    {
+      "basename": "vertices",
+      "path": "vertices.md"
+    },
+    {
+      "basename": "vectors",
+      "path": "vectors.md"
+    },
+    {
+      "basename": "vector field",
+      "path": "vector field.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "Untitled 1.md"
+    },
+    {
+      "basename": "Typescript",
+      "path": "Typescript.md"
     }
   ],
   "omittedPaths": [],

@@ -6,43 +6,7 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#k8s",
-      "color": {
-        "a": 1,
-        "rgb": 4607
-      }
-    },
-    {
-      "query": "tag:#computer-science",
-      "color": {
-        "a": 1,
-        "rgb": 16711718
-      }
-    },
-    {
-      "query": "tag:#math",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#cloud",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#general",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -53,6 +17,6 @@
   "repelStrength": 11.1111111111111,
   "linkStrength": 0.94017094017094,
   "linkDistance": 428,
-  "scale": 0.23867717269606312,
+  "scale": 0.19954334367326312,
   "close": false
 }

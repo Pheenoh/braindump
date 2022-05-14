@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Set Theory
+#math
+
