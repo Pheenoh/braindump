@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "31d41ee5610c9aab",
+        "id": "3668a27122425c03",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Algorithm.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "c370d17fae5d3ef7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Linear Search.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -52,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sorting",
+                "query": "Linux",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +79,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linear Search.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,19 +115,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454
+    "width": 454,
+    "collapsed": true
   },
-  "active": "c370d17fae5d3ef7",
+  "active": "3668a27122425c03",
   "lastOpenFiles": [
-    "Linear Search.md",
-    "Algorithm.md",
-    "Quick Sort.md",
-    "Counting Sort.md",
-    "Shell Sort.md",
-    "Heap Sort.md",
-    "Bucket Sort.md",
-    "range.md",
-    "Radix Sort.md",
-    "radix.md"
+    "Books.md",
+    "Linux.md",
+    "Hardware Controllers.md",
+    "OS Services.md",
+    "operating system.md",
+    "User Applications.md",
+    "Inter-Process Communication.md",
+    "Network Interface.md",
+    "virtual file system.md",
+    "Memory Manager.md"
   ]
 }

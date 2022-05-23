@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# {{title}}
+#statistics #math
+

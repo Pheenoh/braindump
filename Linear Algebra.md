@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Linear Algebra
+#math
+

@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Cold Gas]
 ---
 # Cold Gas Rocket Engine
 #rocket-engineering

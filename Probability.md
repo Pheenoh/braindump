@@ -1,0 +1,6 @@
+---
+aliases: []
+---
+# Probability
+#statistics #math 
+

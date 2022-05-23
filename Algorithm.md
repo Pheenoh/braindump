@@ -1,6 +1,8 @@
 # Algorithm
 #computer-science #algorithm
 
+A finite sequence of well-defined instructions, used to solve problems or perform computation.
+
 ## Sorting Algorithms
 ---
 - [[Bubble Sort]]
@@ -13,6 +15,10 @@
 - [[Bucket Sort]]
 - [[Heap Sort]]
 - [[Shell Sort]]
+- [[Cocktail Shaker Sort]]
+- [[Gnome Sort]]
+- [[Bitonic Sort]]
+- [[Bogo Sort]]
 
 ## Searching Algorithms
 ---
