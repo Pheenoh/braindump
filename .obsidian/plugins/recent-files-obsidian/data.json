@@ -1,16 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Books",
-      "path": "Books.md"
+      "basename": "Master Boot Record",
+      "path": "Master Boot Record.md"
+    },
+    {
+      "basename": "partitioned",
+      "path": "partitioned.md"
+    },
+    {
+      "basename": "information",
+      "path": "information.md"
+    },
+    {
+      "basename": "sector",
+      "path": "sector.md"
+    },
+    {
+      "basename": "Inter-Process Communication",
+      "path": "Inter-Process Communication.md"
+    },
+    {
+      "basename": "system calls",
+      "path": "system calls.md"
     },
     {
       "basename": "Linux",
       "path": "Linux.md"
     },
     {
+      "basename": "Process Scheduler",
+      "path": "Process Scheduler.md"
+    },
+    {
       "basename": "Hardware Controllers",
       "path": "Hardware Controllers.md"
+    },
+    {
+      "basename": "Books",
+      "path": "Books.md"
     },
     {
       "basename": "OS Services",
@@ -25,10 +53,6 @@
       "path": "User Applications.md"
     },
     {
-      "basename": "Inter-Process Communication",
-      "path": "Inter-Process Communication.md"
-    },
-    {
       "basename": "Network Interface",
       "path": "Network Interface.md"
     },
@@ -39,10 +63,6 @@
     {
       "basename": "Memory Manager",
       "path": "Memory Manager.md"
-    },
-    {
-      "basename": "Process Scheduler",
-      "path": "Process Scheduler.md"
     },
     {
       "basename": "Full Flow",
@@ -179,26 +199,6 @@
     {
       "basename": "Commutative Property",
       "path": "Commutative Property.md"
-    },
-    {
-      "basename": "class",
-      "path": "class.md"
-    },
-    {
-      "basename": "Calculus",
-      "path": "Calculus.md"
-    },
-    {
-      "basename": "classical geometry",
-      "path": "classical geometry.md"
-    },
-    {
-      "basename": "binary heap",
-      "path": "binary heap.md"
-    },
-    {
-      "basename": "Brain Stem",
-      "path": "Brain Stem.md"
     }
   ],
   "omittedPaths": [],

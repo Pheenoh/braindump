@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3668a27122425c03",
+        "id": "fa7aca983f88393d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Linux",
+                "query": "information",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -45,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b0f12f2f83b6d81f",
@@ -118,17 +119,17 @@
     "width": 454,
     "collapsed": true
   },
-  "active": "3668a27122425c03",
+  "active": "fa7aca983f88393d",
   "lastOpenFiles": [
-    "Books.md",
-    "Linux.md",
-    "Hardware Controllers.md",
-    "OS Services.md",
-    "operating system.md",
-    "User Applications.md",
+    "Master Boot Record.md",
+    "partitioned.md",
+    "information.md",
+    "sector.md",
     "Inter-Process Communication.md",
-    "Network Interface.md",
-    "virtual file system.md",
-    "Memory Manager.md"
+    "system calls.md",
+    "Linux.md",
+    "Process Scheduler.md",
+    "Hardware Controllers.md",
+    "Books.md"
   ]
 }
