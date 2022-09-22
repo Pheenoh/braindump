@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Master Boot Record",
-      "path": "Master Boot Record.md"
+      "basename": "Simulation Podcast",
+      "path": "Simulation Podcast.md"
     },
     {
-      "basename": "partitioned",
-      "path": "partitioned.md"
+      "basename": "jb",
+      "path": "jb.md"
     },
     {
-      "basename": "information",
-      "path": "information.md"
+      "basename": "Attentional",
+      "path": "Attentional.md"
     },
     {
-      "basename": "sector",
-      "path": "sector.md"
+      "basename": "Computational Meta-Psychology",
+      "path": "Computational Meta-Psychology.md"
     },
     {
-      "basename": "Inter-Process Communication",
-      "path": "Inter-Process Communication.md"
+      "basename": "Health",
+      "path": "personal/Health.md"
     },
     {
-      "basename": "system calls",
-      "path": "system calls.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Linux.md"
-    },
-    {
-      "basename": "Process Scheduler",
-      "path": "Process Scheduler.md"
-    },
-    {
-      "basename": "Hardware Controllers",
-      "path": "Hardware Controllers.md"
+      "basename": "Abstraction",
+      "path": "Abstraction.md"
     },
     {
       "basename": "Books",
       "path": "Books.md"
     },
     {
-      "basename": "OS Services",
-      "path": "OS Services.md"
+      "basename": "Binary Search",
+      "path": "Binary Search.md"
     },
     {
-      "basename": "operating system",
-      "path": "operating system.md"
+      "basename": "binary heap",
+      "path": "binary heap.md"
     },
     {
-      "basename": "User Applications",
-      "path": "User Applications.md"
-    },
-    {
-      "basename": "Network Interface",
-      "path": "Network Interface.md"
-    },
-    {
-      "basename": "virtual file system",
-      "path": "virtual file system.md"
-    },
-    {
-      "basename": "Memory Manager",
-      "path": "Memory Manager.md"
-    },
-    {
-      "basename": "Full Flow",
-      "path": "Full Flow.md"
-    },
-    {
-      "basename": "Addition",
-      "path": "Addition.md"
-    },
-    {
-      "basename": "brains",
-      "path": "brains.md"
-    },
-    {
-      "basename": "Rocket Engines",
-      "path": "Rocket Engines.md"
-    },
-    {
-      "basename": "Closed Cycle",
-      "path": "Closed Cycle.md"
-    },
-    {
-      "basename": "Open Cycle",
-      "path": "Open Cycle.md"
-    },
-    {
-      "basename": "Cold Gas Rocket Engine",
-      "path": "Cold Gas Rocket Engine.md"
-    },
-    {
-      "basename": "Force",
-      "path": "Force.md"
-    },
-    {
-      "basename": "Annotations",
-      "path": "Annotations.md"
-    },
-    {
-      "basename": "Istio",
-      "path": "Istio.md"
-    },
-    {
-      "basename": "Observability",
-      "path": "Observability.md"
-    },
-    {
-      "basename": "Traffic Management",
-      "path": "Traffic Management.md"
-    },
-    {
-      "basename": "security",
-      "path": "security.md"
-    },
-    {
-      "basename": "Analysis Messages",
-      "path": "Analysis Messages.md"
-    },
-    {
-      "basename": "Configuraiton Status Field",
-      "path": "Configuraiton Status Field.md"
-    },
-    {
-      "basename": "Global Mesh Options",
-      "path": "Global Mesh Options.md"
-    },
-    {
-      "basename": "machine learning",
-      "path": "machine learning.md"
-    },
-    {
-      "basename": "Probability",
-      "path": "Probability.md"
-    },
-    {
-      "basename": "Statistics Template",
-      "path": "templates/Statistics Template.md"
-    },
-    {
-      "basename": "Linear Algebra",
-      "path": "Linear Algebra.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Python.md"
-    },
-    {
-      "basename": "C",
-      "path": "C.md"
-    },
-    {
-      "basename": "codomain",
-      "path": "codomain.md"
-    },
-    {
-      "basename": "Rocket Engineering Template",
-      "path": "templates/Rocket Engineering Template.md"
+      "basename": "Basal Ganglia",
+      "path": "Basal Ganglia.md"
     },
     {
       "basename": "API Server",
       "path": "API Server.md"
     },
     {
-      "basename": "controller manager",
-      "path": "controller manager.md"
+      "basename": "agent",
+      "path": "agent.md"
     },
     {
-      "basename": "Control Plane",
-      "path": "Control Plane.md"
+      "basename": "Addition",
+      "path": "Addition.md"
     },
     {
-      "basename": "thrust",
-      "path": "thrust.md"
+      "basename": "Acceleration",
+      "path": "Acceleration.md"
     },
     {
-      "basename": "nozzle",
-      "path": "nozzle.md"
+      "basename": "graphs",
+      "path": "graphs.md"
     },
     {
-      "basename": "fuel",
-      "path": "fuel.md"
+      "basename": "Oriented graph",
+      "path": "Oriented graph.md"
     },
     {
-      "basename": "engine",
-      "path": "engine.md"
+      "basename": "Finance",
+      "path": "personal/Finance.md"
     },
     {
-      "basename": "combustion chamber",
-      "path": "combustion chamber.md"
+      "basename": "Obsidian Format Guide",
+      "path": "Obsidian Format Guide.md"
     },
     {
-      "basename": "combustion",
-      "path": "combustion.md"
+      "basename": "arithmetic operations",
+      "path": "arithmetic operations.md"
     },
     {
-      "basename": "Commutative Property",
-      "path": "Commutative Property.md"
+      "basename": "Algebra",
+      "path": "Algebra.md"
+    },
+    {
+      "basename": "Bipartite Graph",
+      "path": "Bipartite Graph.md"
+    },
+    {
+      "basename": "Regular graph",
+      "path": "Regular graph.md"
+    },
+    {
+      "basename": "Finite Graph",
+      "path": "Finite Graph.md"
+    },
+    {
+      "basename": "Philosophy Template",
+      "path": "templates/Philosophy Template.md"
+    },
+    {
+      "basename": "Cognitive Science Template",
+      "path": "templates/Cognitive Science Template.md"
+    },
+    {
+      "basename": "Statistics Template",
+      "path": "templates/Statistics Template.md"
+    },
+    {
+      "basename": "Strong AI",
+      "path": "Strong AI.md"
+    },
+    {
+      "basename": "Synthetic Intelligence",
+      "path": "Synthetic Intelligence.md"
+    },
+    {
+      "basename": "Machine Dreams",
+      "path": "Machine Dreams.md"
+    },
+    {
+      "basename": "TokenRequest",
+      "path": "TokenRequest.md"
+    },
+    {
+      "basename": "Singularity Weblog",
+      "path": "Singularity Weblog.md"
+    },
+    {
+      "basename": "Theories of Everything",
+      "path": "Theories of Everything.md"
+    },
+    {
+      "basename": "Lex Fridman Round 1",
+      "path": "Lex Fridman Round 1.md"
+    },
+    {
+      "basename": "The Ghost in the Machine",
+      "path": "The Ghost in the Machine.md"
+    },
+    {
+      "basename": "The Learnable Universe",
+      "path": "The Learnable Universe.md"
+    },
+    {
+      "basename": "Lex Fridman Round 2",
+      "path": "Lex Fridman Round 2.md"
+    },
+    {
+      "basename": "JB Template",
+      "path": "templates/JB Template.md"
+    },
+    {
+      "basename": "Free Energy Principal",
+      "path": "Free Energy Principal.md"
+    },
+    {
+      "basename": "self",
+      "path": "self.md"
+    },
+    {
+      "basename": "Computer Science Template",
+      "path": "templates/Computer Science Template.md"
+    },
+    {
+      "basename": "conscious",
+      "path": "conscious.md"
+    },
+    {
+      "basename": "Generative Models",
+      "path": "Generative Models.md"
+    },
+    {
+      "basename": "Generative Adversarial Networks",
+      "path": "Generative Adversarial Networks.md"
+    },
+    {
+      "basename": "Unsupeervised Learning",
+      "path": "Unsupeervised Learning.md"
+    },
+    {
+      "basename": "setpoint",
+      "path": "setpoint.md"
+    },
+    {
+      "basename": "Model",
+      "path": "Model.md"
+    },
+    {
+      "basename": "self regulation",
+      "path": "self regulation.md"
+    },
+    {
+      "basename": "category theory",
+      "path": "category theory.md"
+    },
+    {
+      "basename": "Untitled 4",
+      "path": "Untitled 4.md"
+    },
+    {
+      "basename": "Planar Graph",
+      "path": "Planar Graph.md"
     }
   ],
   "omittedPaths": [],

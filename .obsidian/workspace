@@ -4,10 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "fa7aca983f88393d",
+        "id": "21756dc17fc6c1e0",
         "type": "leaf",
         "state": {
-          "type": "empty",
+          "type": "markdown",
+          "state": {
+            "file": "jb.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "26c101fe1aff0ef6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Simulation Podcast.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "5db4e57f919cfb7d",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
           "state": {}
         }
       }
@@ -36,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "information",
+                "query": "joscha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,20 +140,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 454,
-    "collapsed": true
+    "width": 454
   },
-  "active": "fa7aca983f88393d",
+  "active": "5db4e57f919cfb7d",
   "lastOpenFiles": [
-    "Master Boot Record.md",
-    "partitioned.md",
-    "information.md",
-    "sector.md",
-    "Inter-Process Communication.md",
-    "system calls.md",
-    "Linux.md",
-    "Process Scheduler.md",
-    "Hardware Controllers.md",
-    "Books.md"
+    "jb.md",
+    "Simulation Podcast.md",
+    "Attentional.md",
+    "Computational Meta-Psychology.md",
+    "personal/Health.md",
+    "Abstraction.md",
+    "Books.md",
+    "Binary Search.md",
+    "binary heap.md",
+    "Basal Ganglia.md"
   ]
 }

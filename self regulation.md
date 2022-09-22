@@ -1,0 +1,2 @@
+# Self Regulation
+The ability to respond to the ongoing demands of [experience](https://en.wikipedia.org/wiki/Experience "Experience") with the range of [emotions](https://en.wikipedia.org/wiki/Emotion "Emotion") in a manner that is socially tolerable and sufficiently flexible to permit spontaneous reactions as well as the ability to delay spontaneous reactions as needed

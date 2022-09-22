@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [models]
 ---
 # Model
 #computer-science #computer-engineering 
